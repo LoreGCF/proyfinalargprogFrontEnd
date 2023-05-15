@@ -1,0 +1,13 @@
+.bg-gradient-green {
+    background-color: rgb(27, 251, 87);
+    background-image: linear-gradient(
+        135deg,
+        rgba(47, 145, 224, 0.91),
+        rgba(7, 31, 51, 0.97) 79%
+    );
+    background-image: linear-gradient(
+        131deg,
+        rgba(156, 169, 176, 0.92),
+        rgb(75, 75, 75)
+    );
+}
